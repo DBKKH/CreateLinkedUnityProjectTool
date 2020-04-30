@@ -4,10 +4,10 @@ This is create symbolic link of UnityProject.
 Created UnityProject can be launched at the same time.
 
 ## Get Started
-Download this bat file.
-Drack and Drop the UnityProject into the bat file.
+1.Download this bat file.
+2.Drack and Drop an UnityProject into the bat file.
+3.Create linked UnityProject in same folder layer path.
+4.Please open this file with UnityEditor.
 
-Created UnityProject in same folder layer path.
-
-Please open this file with UnityEditor.
-
+## Notification
+If you don't manage by git or editorconfig, show some error.
