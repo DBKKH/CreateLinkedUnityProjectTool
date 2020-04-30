@@ -9,5 +9,3 @@ Created UnityProject can be launched at the same time.
 3.Create linked UnityProject in same folder layer path.
 4.Please open this file with UnityEditor.
 
-## Notification
-If you don't manage by git or editorconfig, show some error.
