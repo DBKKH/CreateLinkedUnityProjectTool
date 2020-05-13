@@ -1,7 +1,7 @@
 @echo off
 
-rem D&DしたフォルダのフルパスをGet
-set ProjectName=%~1
+rem パラメータのGet
+set ProjectName=%1
 
 rem 新規で作るプロジェクトのフォルダ名をSET
 set made_path=%ProjectName%-link
